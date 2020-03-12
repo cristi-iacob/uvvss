@@ -1,0 +1,287 @@
+1
+raspuns: a c
+varianta a
+varianta b
+varianta c
+varianta d
+a c     
+2
+raspuns: a d
+varianta a
+varianta b
+varianta c
+varianta d
+a d     
+3
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+4
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+5
+raspuns: d
+varianta a
+varianta b
+varianta c
+varianta d
+d     
+6
+raspuns: a b c
+varianta a
+varianta b
+varianta c
+varianta d
+a b c     
+7
+raspuns: b c
+varianta a
+varianta b
+varianta c
+varianta d
+b c     
+8
+raspuns: a d
+varianta a
+varianta b
+varianta c
+varianta d
+a d     
+9
+raspuns: d
+varianta a
+varianta b
+varianta c
+varianta d
+d     
+10
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+11
+raspuns: a b c d
+varianta a
+varianta b
+varianta c
+varianta d
+a b c d     
+12
+raspuns: a b
+varianta a
+varianta b
+varianta c
+varianta d
+a b     
+13
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+14
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+15
+raspuns: c
+varianta a
+varianta b
+varianta c
+varianta d
+c     
+16
+raspuns: d
+varianta a
+varianta b
+varianta c
+varianta d
+d     
+17
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+18
+raspuns: d
+varianta a
+varianta b
+varianta c
+varianta d
+d     
+19
+raspuns: a b d
+varianta a
+varianta b
+varianta c
+varianta d
+a b d     
+20
+raspuns: b c d
+varianta a
+varianta b
+varianta c
+varianta d
+b c d     
+21
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+22
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+23
+raspuns: c
+varianta a
+varianta b
+varianta c
+varianta d
+c     
+24
+raspuns: d
+varianta a
+varianta b
+varianta c
+varianta d
+d     
+25
+raspuns: c
+varianta a
+varianta b
+varianta c
+varianta d
+c     
+26
+raspuns: a c d
+varianta a
+varianta b
+varianta c
+varianta d
+a c d     
+27
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b     
+28
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+29
+raspuns: c
+varianta a
+varianta b
+varianta c
+varianta d
+c     
+30
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+31
+raspuns: b c d
+varianta a
+varianta b
+varianta c
+varianta d
+b c d     
+32
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a     
+33
+raspuns: b c
+varianta a
+varianta b
+varianta c
+varianta d
+b c    
+34
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a    
+35
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b    
+36
+raspuns: b
+varianta a
+varianta b
+varianta c
+varianta d
+b   
+37
+raspuns: a c d
+varianta a
+varianta b
+varianta c
+varianta d
+a c d   
+38
+raspuns: a c d
+varianta a
+varianta b
+varianta c
+varianta d
+a c d   
+39
+raspuns: c d
+varianta a
+varianta b
+varianta c
+varianta d
+c d  
+40
+raspuns: c d
+varianta a
+varianta b
+varianta c
+varianta d
+c d  
+41
+raspuns: a
+varianta a
+varianta b
+varianta c
+varianta d
+a 
